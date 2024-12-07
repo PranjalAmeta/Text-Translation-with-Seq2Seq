@@ -17,7 +17,9 @@
 
 ## Model Evaluation 
   + The model have tested the the loss and accuracy with validation loss and accuracy metrics.
+  + Accuracy Metrics
   ![Metrics for Accuracy](<Images/Accuracy metircs.png>)
+  + Loss Metrics
   ![Metrics for Loss](<Images/Loss metrics.png>)
   + The model was tested on kaggle notebooks.
 
